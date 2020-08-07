@@ -3,7 +3,7 @@ A 2D user Interface design built using html, css, vallina js and anime.js librar
 
 ---
 
-Demo link : [Live Link](https://exhibition.netlify.app/)
+Demo link : ![Live Link](https://exhibition.netlify.app/)
 - Use big screen for the effect.
 
 #Vedio Walkthrough
