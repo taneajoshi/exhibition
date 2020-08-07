@@ -13,3 +13,8 @@ Demo link : [Live Link](https://exhibition.netlify.app/)
 ---
 #Desktop
 ![](https://github.com/taneajoshi/exhibition/blob/master/exhibition.png)
+
+
+---
+#TODO
+- Make pictures clickable for expanded view
